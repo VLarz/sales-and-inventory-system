@@ -1,0 +1,56 @@
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\bin\Debug\Sales and Inventory For Marj Hardware.exe.config
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\bin\Debug\Sales and Inventory For Marj Hardware.exe
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\bin\Debug\Sales and Inventory For Marj Hardware.pdb
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\bin\Debug\BunifuDataViz 1.0.1.dll
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\bin\Debug\Calendar.NET.dll
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\bin\Debug\Gmail.dll
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\bin\Debug\LiveCharts.dll
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\bin\Debug\MaterialSkin.dll
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\bin\Debug\MySql.Data.dll
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\bin\Debug\LiveCharts.pdb
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\bin\Debug\LiveCharts.xml
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\bin\Debug\MySql.Data.xml
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\+.csprojAssemblyReference.cache
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.Add_Supplier.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.Add_Item.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.Add_User.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.alert.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.Dashboard.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.Inventory.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.Inventory1.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.Item_Management.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.Login.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.Login_Notification.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.Loyal_Card.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.Mainform.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.Manage_Supplier1.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.POS.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.POS1.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.Previous_Customer.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.Product_Entry.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.Properties.Resources.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.Maintenance.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.Purchase_Order.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.Purchase_Order12.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.Purchase_OrderList.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.Receive_Order.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.Sales_Report.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.Sales_Reports.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.Send_To_Gmail.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.Success_Notification.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.Supplier_Management.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.test.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.User_Management.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales_and_Inventory_For_Marj_Hardware.User_Management1.resources
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\+.csproj.GenerateResource.cache
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\+.csproj.CoreCompileInputs.cache
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\+.csproj.CopyComplete
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales and Inventory For Marj Hardware.exe
+C:\Users\Skullpluggery\source\repos\Sales and Inventory For Marj Hardware\Sales and Inventory For Marj Hardware\obj\Debug\Sales and Inventory For Marj Hardware.pdb
